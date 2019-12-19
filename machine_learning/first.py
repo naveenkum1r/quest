@@ -1,0 +1,1 @@
+#learnt about decisive tree. seems the last node is called node and if there's more nodes then it's called deeper machine learning.
